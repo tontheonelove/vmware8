@@ -1,4 +1,4 @@
-# vmware8
+# Install vmware8 with cpu not support 
 
 
 # Boot Esxi installation 
