@@ -7,20 +7,20 @@
 
 # spacebar and insert below 
 
-cpuUniformityHardCheckPanic=FALSE autoPartitionOSDataSize=8192
+$cpuUniformityHardCheckPanic=FALSE autoPartitionOSDataSize=8192
 
 # when install success 
 
 # spacebar and insert below 
 
-cpuUniformityHardCheckPanic=FALSE
+$cpuUniformityHardCheckPanic=FALSE
 
-open gui and enable SSH  login with root
+# open gui and enable SSH  login with root
 
-cd bootblank
+$cd bootblank
 
-vi boot.cfg
+$vi boot.cfg
 
 # add this on row kernelopt
 
-cpuUniformityHardCheckPanic=FALSE
+$cpuUniformityHardCheckPanic=FALSE
